@@ -9,6 +9,21 @@
 
 - 📄 Personal E-portfolio Website [kwei05.github.io](https://kwei05.github.io/) 👈
 
+### Education📖
+| Level | Place |
+| ----------- | ----------- |
+| Primary School | SJK(C) KEOW KUANG |
+| Secondary School | SMJK JIT SIN |
+| Foundation | UTM SPACE in Kuala Lumpur |
+| Degree | UNIVERSITY TECHNOLOGY MALAYSIA |
+
+### Award 🏆
+| Year | Title | PLace |
+| ----------- | ----------- | ----------- |
+| 2019 | Basketball 3x3 U15 | Round of 8 |
+| 2022 | MSSPP Softball Men U18 | Round of 16 |
+| 2022 | MSSM Softball Men U18 State Selection | NA |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yeoh-keng-wei-9b09b8249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeoh-keng-wei-9b09b8249" height="30" width="40" /></a>
