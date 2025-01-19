@@ -9,6 +9,8 @@
 
 - 📄 Personal E-portfolio Website [kwei05.github.io](https://kwei05.github.io/) 👈
 
+- 🖥️ Github Portfolio [Year1_Sem1](https://github.com/kwei05/Year1_Sem1) 👈
+
 ### Education📖
 | Level | Place |
 | ----------- | ----------- |
