@@ -22,7 +22,7 @@
 | ----------- | ----------- | ----------- |
 | 2019 | Basketball 3x3 U15 | Round of 8 |
 | 2022 | MSSPP Softball Men U18 | Round of 16 |
-| 2022 | MSSM Softball Men U18 State Selection | NA |
+| 2022 | MSSM Softball Men U18 State Selection | N/A |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
